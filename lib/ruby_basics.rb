@@ -22,8 +22,8 @@ return "#{phrase}"
 end
 
 def last_evaluated_value(phrase = "Expert")
+  return "#{phrase}"
   "#{phrase}"
-  return "(phrase)"
 
 end
 
